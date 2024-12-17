@@ -119,3 +119,14 @@
 [22:20:07] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
 [22:20:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [22:20:23] [Server thread/INFO]: <--[HERE]
+[22:29:07] [Server thread/INFO]: Stopping the server
+[22:29:07] [Server thread/INFO]: Stopping server
+[22:29:07] [Server thread/INFO]: Saving players
+[22:29:07] [Server thread/INFO]: Saving worlds
+[22:29:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:29:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:29:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:29:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:29:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:29:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:29:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
